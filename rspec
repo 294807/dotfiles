@@ -1,1 +1,14 @@
 --color --format documentation
+# 1 Ask the user for the first number
+# 2 Get the first number
+# 3 Ask the user for the second number
+# 4 Get the second number
+# 5 Ask the user for the operator (+ | - | / | *)
+# 6 Get the operator
+# 7 Return different answers depending on the user's input
+# 8 Keep going until the user doesn't want to calculate anything anymore
+
+
+def calculator(num1, num2)
+
+
